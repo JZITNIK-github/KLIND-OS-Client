@@ -10,6 +10,10 @@
 ```
 git clone https://github.com/JZITNIK-github/KLIND-OS-Client
 ```
+3. Go to folder
+```
+cd KLIND-OS-Client
+```
 2. Install required dependencies
 ```
 npm install
