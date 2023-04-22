@@ -1,26 +1,26 @@
 # KLIND OS Client
 ## Download
-1. Go to [releases](releases)
-2. Select the latest version
-3. Download the .zip file based of your operating system
-4. Unzip the .zip file
-5. Start KLIND OS file
+1. Jděte do [releases](releases)
+2. Vyberte nejnovější verzi
+3. Stáhněte .zip soubor podle vašeho operačního systému
+4. Extrahujte .zip soubor
+5. Spusťte KLIND-OS soubor
 ## Build your own package
-1. Clone this repo
+1. Naklonujte tohle repo
 ```
 git clone https://github.com/JZITNIK-github/KLIND-OS-Client
 ```
-3. Go to folder
+3. Jděte do složky
 ```
 cd KLIND-OS-Client
 ```
-2. Install required dependencies
+2. Stáhněte knihovny
 ```
 npm install
 ```
-3. Run build command
+3. Spusťte build příkaz
 ```
 electron-packager . KLIND-OS
 ```
-4. And that's it!
-Now go to folder that was created and run KLIND-OS file.
+4. A je to
+Nyní jděte do složky která byla vytvořena a spusťte KLIND-OS soubor.
